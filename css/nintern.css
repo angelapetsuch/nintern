@@ -1,9 +1,25 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700,300);
 @import url(https://fonts.googleapis.com/css?family=Squada+One);
-body {
-  padding: 20px 80px;
-  background: #eee url(https://subtlepatterns.com/patterns/extra_clean_paper.png);
+
+
+  html, body{
+    height:100%; /* important to vertically align the container */
+    margin:0;
+    padding:0;
+  }
+
+  body {
+    background: #eee url(https://subtlepatterns.com/patterns/extra_clean_paper.png);
+
+  }
+
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one 🙂       */
+  display: flex;
+  align-items: center;
 }
+
 #logo {
   font-family: 'Open Sans', sans-serif;
   color: #555;
