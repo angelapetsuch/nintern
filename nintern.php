@@ -18,11 +18,9 @@
 		 					<a href="/" id="logo">Nintern</a>
 
 							<ul id="menu">
-								<li><a href="/"><span>Home</span></a></li>
-								<li><a href="/"><span>Tutorials</span></a></li>
-								<li><a href="/"><span>Articles</span></a></li>
-								<li><a href="/"><span>About me</span></a></li>
-								<li><a href="/"><span>Contact</span></a></li>
+								<li><a href="/"><span>past</span></a></li>
+								<li><a href="/"><span>present</span></a></li>
+								<li><a href="/"><span>future</span></a></li>
 							</ul>
 						</div>
 				</div>
