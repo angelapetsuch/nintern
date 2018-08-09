@@ -4,6 +4,7 @@
 	<title>Nintern</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="css/nintern.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 </head>
 
 <body>
@@ -11,18 +12,19 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-				<h1>My Journey as a</h1>
-					<div id="header">
-	 					<a href="/" id="logo">Nintern</a>
+					<i class="fas fa-user-ninja fa-10x"></i>
+					<h1>My Journey as a</h1>
+						<div id="header">
+		 					<a href="/" id="logo">Nintern</a>
 
-						<ul id="menu">
-							<li><a href="/"><span>Home</span></a></li>
-							<li><a href="/"><span>Tutorials</span></a></li>
-							<li><a href="/"><span>Articles</span></a></li>
-							<li><a href="/"><span>About me</span></a></li>
-							<li><a href="/"><span>Contact</span></a></li>
-						</ul>
-					</div>
+							<ul id="menu">
+								<li><a href="/"><span>Home</span></a></li>
+								<li><a href="/"><span>Tutorials</span></a></li>
+								<li><a href="/"><span>Articles</span></a></li>
+								<li><a href="/"><span>About me</span></a></li>
+								<li><a href="/"><span>Contact</span></a></li>
+							</ul>
+						</div>
 				</div>
 			</div>
 		</div>
